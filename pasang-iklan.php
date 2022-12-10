@@ -64,7 +64,8 @@ gtag("config", "G-H7HWTRWQH4");
 <!-- Snippet Google Analytics penutup telah ditambahkan oleh Site Kit -->
 <link rel="alternate" type="application/json+oembed" href="https://139.99.23.209/wp-json/oembed/1.0/embed?url=https%3A%2F%2F139.99.23.209%2Fpasang-iklan%2F" />
 <link rel="alternate" type="text/xml+oembed" href="https://139.99.23.209/wp-json/oembed/1.0/embed?url=https%3A%2F%2F139.99.23.209%2Fpasang-iklan%2F&#038;format=xml" />
-<meta name="generator" content="Site Kit by Google 1.89.0" /><meta name="google-site-verification" content="HiqBHwiOZwcR3cwm8H4XihL5AnGTrgdL2GcNTw0wtuY">
+<meta name="generator" content="Site Kit by Google 1.89.0" /><meta name="google-site-verification" content="HiqBHwiOZwcR3cwm8H4XihL5AnGTrgdL2GcNTw0wtuY">
+
 <meta name="ahrefs-site-verification" content="ea8a3689e6f5f5ecef770daa8eea7592a139290fd2fbec256a94673662d28aec">
 <link rel="preload" as="font" href="https://139.99.23.209/wp-content/themes/muvipro/fonts/ElegantIcons.woff" crossorigin>
 <link rel="preload" as="font" href="https://139.99.23.209/wp-content/themes/muvipro/fonts/ElegantIcons.ttf" crossorigin><style type="text/css" id="custom-background-css">
@@ -413,93 +414,180 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 	
 	<div id="content" class="gmr-content">
 
-		<div class="container"><div class="idmuvi-topbanner-aftermenu"><div class="row">
-  <div class="col-12" id="hs-4">
-    <a href="https://investopedia.today/" target="_blank" title="388hero" rel="noopener"><img data-src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/388hero.gif" class="img-banner lazy" alt="388hero" height="90px" width="1080px" src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/load-1080.jpg" /></a>
-  </div>
-  <div class="col-12" id="hs-4">
-    <a href="https://investopedia.today/" target="_blank" title="388hero" rel="noopener"><img data-src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/388hero.gif" class="img-banner lazy" alt="388hero" height="90px" width="1080px" src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/load-1080.jpg" /></a>
-  </div>
-  <div class="col-12" id="hs-4">
-    <a href="https://foodandwine.pro/" target="_blank" title="bandarxl" rel="noopener"><img data-src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/bandarxl.gif" class="img-banner lazy" alt="bandarxl" height="90px" width="1080px" src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/load-1080.jpg" /></a>
-  </div>
-  <div class="col-12" id="hs-4">
-    <a href="https://foodandwine.pro/" target="_blank" title="bandarxl" rel="noopener"><img data-src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/bandarxl.gif" class="img-banner lazy" alt="bandarxl" height="90px" width="1080px" src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/load-1080.jpg" /></a>
-  </div>
-  <div class="col-12" id="hs-4">
-    <a href="https://themarket.life/" target="_blank" title="enakslot" rel="noopener"><img data-src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/enakslot.gif" class="img-banner lazy" alt="enakslot" height="90px" width="1080px" src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/load-1080.jpg" /></a>
-  </div>
-  <div class="col-12" id="hs-4">
-    <a href="https://www.buyspinslot.com/" target="_blank" title="buyspinslot" rel="noopener"><img data-src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/buyspinslot1.gif" class="img-banner lazy" alt="buyspinslot" height="90px" width="1080px" src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/load-1080.jpg" /></a>
-  </div>
-  <div class="col-12" id="hs-4">
-    <a href="https://bisnis4d.vip/" target="_blank" title="bisnis4d1" rel="noopener"><img data-src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/bisnis4d1.gif" class="img-banner lazy" alt="bisnis4d1" height="90px" width="1080px" src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/load-1080.jpg" /></a>
-  </div>
-  <div class="col-6" id="hs-4">
-    <a href="https://foodandwine.pro/" target="_blank" title="bandarxl" rel="noopener"><img data-src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/09/bandarxl.gif" class="img-banner lazy" alt="bandarxl" height="90px" width="532px" src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/load-532.jpg" /></a>
-  </div>
-  <div class="col-6" id="hs-4">
-    <a href="https://themarket.life/" target="_blank" title="enakbet" rel="noopener"><img data-src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/09/enakbet.gif" class="img-banner lazy" alt="enakbet" height="90px" width="532px" src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/load-532.jpg" /></a>
-  </div>
-  <div class="col-6" id="hs-4">
-    <a href="https://bisnis4d.vip/" target="_blank" title="bisnis4d" rel="noopener"><img data-src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/09/bisnis4d.gif" class="img-banner lazy" alt="bisnis4d" height="90px" width="532px" src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/load-532.jpg" /></a>
-  </div>
-  <div class="col-6" id="hs-4">
-    <a href="https://www.buyspinslot.com/" target="_blank" title="BUYSPINSLOT" rel="noopener"><img data-src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/10/BUYSPINSLOT.gif" class="img-banner lazy" alt="BUYSPINSLOT" height="90px" width="532px" src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/load-532.jpg" /></a>
-  </div>
-  
-  <div class="col-6" id="hs-18">
-    <a href="https://bit.ly/juDi89" target="_blank" title="judi89" rel="noopener"><img data-src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/Abanner-JUDI89-1.gif" class="img-banner lazy" alt="judi89" height="90px" width="532px" src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/load-532.jpg" /></a>
-  </div>
-  <div class="col-6" id="hs-18">
-    <a href="https://bit.ly/juDi89" target="_blank" title="judi89" rel="noopener"><img data-src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/Abanner-JUDI89-1.gif" class="img-banner lazy" alt="judi89" height="90px" width="532px" src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/load-532.jpg" /></a>
-  </div>
-  
-  <div class="col-6" id="hs-4">
-    <a href="https://viralslot88.com/?action=register&rc=WQREH42O3T&ci=11" target="_blank" title="viralslot88" rel="noopener"><img data-src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/12/viralbola88.gif" class="img-banner lazy" alt="viralslot88" height="90px" width="532px" src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/load-532.jpg" /></a>
-  </div>
-  <div class="col-6" id="hs-18">
-    <a href="https://bit.ly/PentaSLOT" target="_blank" title="pentaslot" rel="noopener"><img data-src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/07/pentaslot.gif" class="img-banner lazy" alt="pentaslot" height="90px" width="532px" src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/load-532.jpg" /></a>
-  </div>
-  <div class="col-6" id="hs-18">
-    <a href="https://bit.ly/Rusia777" target="_blank" title="rusia777" rel="noopener"><img data-src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/04/Rusia777-1.gif" class="img-banner lazy" alt="rusia777" height="90px" width="532px" src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/load-532.jpg" /></a>
-  </div>
-  <div class="col-6" id="hs-18">
-    <a href="https://bit.ly/KaikoSLOT" target="_blank" title="kaikoslot" rel="noopener"><img data-src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/05/kaiko.gif" class="img-banner lazy" alt="kaikoslot" height="90px" width="532px" src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/load-532.jpg" /></a>
-  </div>
-
-  <div class="col-6" id="hs-18">
-    <a href="https://bit.ly/rATu89" target="_blank" title="ratu89" rel="noopener"><img data-src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/09/ratu89.gif" class="img-banner lazy" alt="ratu89" height="90px" width="532px" src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/load-532.jpg" /></a>
-  </div>
-  <div class="col-6" id="hs-18">
-    <a href="https://bit.ly/juDi89" target="_blank" title="judi89" rel="noopener"><img data-src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/09/judi89.gif" class="img-banner lazy" alt="judi89" height="90px" width="532px" src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/load-532.jpg" /></a>
-  </div>
-  
-
-  <div class="col-6" id="hs-1">
-    <a href="https://www.royalebossindex.com/" target="_blank" title="royaleboss, slot, poker, jackpot, online slot, slot, pragmatic, jackpot, online game, online, game, royale, boss" rel="noopener"><img data-src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/RB-pusatfilm21-532x90-1.gif" class="img-banner lazy" alt="Royale boss, slot, poker, jackpot, online slot, slot, pragmatic, jackpot, online game, online, game, royale, boss" height="90px" width="532px" src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/load-532.jpg" /></a>
-  </div>
-
-  <div class="col-6" id="hs-1">
-    <a href="https://bit.ly/3T3E2ee" target="_blank" title="i58bet" rel="noopener"><img data-src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/i58bet.gif" class="img-banner lazy" alt="i58bet" height="90px" width="532px" src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/load-532.jpg" /></a>
-  </div>
-
-  <div class="col-6" id="hs-4">
-    <a href="https://agbvip99.com/register?ref=bannerpro303" target="_blank" title="agb99" rel="noopener"><img data-src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/agb99.gif" class="img-banner lazy" alt="agb99" height="90px" width="532px" src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/load-532.jpg" /></a>
-  </div>
-
-  <div class="col-12" id="hs-18">
-    <a href="https://klik.fun/pusatfilmh1" target="_blank" title="IBO " rel="noopener"><img data-src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/05/ibo1.gif" class="img-banner lazy" alt="IBO " height="90px" width="1080px" src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/load-1080.jpg" /></a>
-  </div>
-
-  <div class="col-12" id="hs-18">
-    <a href="https://klik.fun/pusatfilmh2" target="_blank" title="IBO " rel="noopener"><img data-src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/05/ibo2.gif" class="img-banner lazy" alt="IBO " height="90px" width="1080px" src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/load-1080.jpg" /></a>
-  </div>
-  
-  <div class="col-12" id="hs-18">
-    <a href="https://18.140.10.249/account/register/pusatfilm138" target="_blank" title="Bendera138" rel="noopener"><img data-src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/bendara138.gif" class="img-banner lazy" alt="Bendera138" height="90px" width="1080px" src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/load-1080.jpg" /></a>
-  </div>
-  
+		<div class="container"><div class="idmuvi-topbanner-aftermenu"><div class="row">
+
+  <div class="col-12" id="hs-4">
+
+    <a href="https://investopedia.today/" target="_blank" title="388hero" rel="noopener"><img data-src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/388hero.gif" class="img-banner lazy" alt="388hero" height="90px" width="1080px" src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/load-1080.jpg" /></a>
+
+  </div>
+
+  <div class="col-12" id="hs-4">
+
+    <a href="https://investopedia.today/" target="_blank" title="388hero" rel="noopener"><img data-src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/388hero.gif" class="img-banner lazy" alt="388hero" height="90px" width="1080px" src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/load-1080.jpg" /></a>
+
+  </div>
+
+  <div class="col-12" id="hs-4">
+
+    <a href="https://foodandwine.pro/" target="_blank" title="bandarxl" rel="noopener"><img data-src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/bandarxl.gif" class="img-banner lazy" alt="bandarxl" height="90px" width="1080px" src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/load-1080.jpg" /></a>
+
+  </div>
+
+  <div class="col-12" id="hs-4">
+
+    <a href="https://foodandwine.pro/" target="_blank" title="bandarxl" rel="noopener"><img data-src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/bandarxl.gif" class="img-banner lazy" alt="bandarxl" height="90px" width="1080px" src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/load-1080.jpg" /></a>
+
+  </div>
+
+  <div class="col-12" id="hs-4">
+
+    <a href="https://themarket.life/" target="_blank" title="enakslot" rel="noopener"><img data-src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/enakslot.gif" class="img-banner lazy" alt="enakslot" height="90px" width="1080px" src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/load-1080.jpg" /></a>
+
+  </div>
+
+  <div class="col-12" id="hs-4">
+
+    <a href="https://www.buyspinslot.com/" target="_blank" title="buyspinslot" rel="noopener"><img data-src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/buyspinslot1.gif" class="img-banner lazy" alt="buyspinslot" height="90px" width="1080px" src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/load-1080.jpg" /></a>
+
+  </div>
+
+  <div class="col-12" id="hs-4">
+
+    <a href="https://bisnis4d.vip/" target="_blank" title="bisnis4d1" rel="noopener"><img data-src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/bisnis4d1.gif" class="img-banner lazy" alt="bisnis4d1" height="90px" width="1080px" src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/load-1080.jpg" /></a>
+
+  </div>
+
+  <div class="col-6" id="hs-4">
+
+    <a href="https://foodandwine.pro/" target="_blank" title="bandarxl" rel="noopener"><img data-src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/09/bandarxl.gif" class="img-banner lazy" alt="bandarxl" height="90px" width="532px" src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/load-532.jpg" /></a>
+
+  </div>
+
+  <div class="col-6" id="hs-4">
+
+    <a href="https://themarket.life/" target="_blank" title="enakbet" rel="noopener"><img data-src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/09/enakbet.gif" class="img-banner lazy" alt="enakbet" height="90px" width="532px" src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/load-532.jpg" /></a>
+
+  </div>
+
+  <div class="col-6" id="hs-4">
+
+    <a href="https://bisnis4d.vip/" target="_blank" title="bisnis4d" rel="noopener"><img data-src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/09/bisnis4d.gif" class="img-banner lazy" alt="bisnis4d" height="90px" width="532px" src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/load-532.jpg" /></a>
+
+  </div>
+
+  <div class="col-6" id="hs-4">
+
+    <a href="https://www.buyspinslot.com/" target="_blank" title="BUYSPINSLOT" rel="noopener"><img data-src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/10/BUYSPINSLOT.gif" class="img-banner lazy" alt="BUYSPINSLOT" height="90px" width="532px" src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/load-532.jpg" /></a>
+
+  </div>
+
+  
+
+  <div class="col-6" id="hs-18">
+
+    <a href="https://bit.ly/juDi89" target="_blank" title="judi89" rel="noopener"><img data-src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/Abanner-JUDI89-1.gif" class="img-banner lazy" alt="judi89" height="90px" width="532px" src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/load-532.jpg" /></a>
+
+  </div>
+
+  <div class="col-6" id="hs-18">
+
+    <a href="https://bit.ly/juDi89" target="_blank" title="judi89" rel="noopener"><img data-src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/Abanner-JUDI89-1.gif" class="img-banner lazy" alt="judi89" height="90px" width="532px" src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/load-532.jpg" /></a>
+
+  </div>
+
+  
+
+  <div class="col-6" id="hs-4">
+
+    <a href="https://viralslot88.com/?action=register&rc=WQREH42O3T&ci=11" target="_blank" title="viralslot88" rel="noopener"><img data-src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/12/viralbola88.gif" class="img-banner lazy" alt="viralslot88" height="90px" width="532px" src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/load-532.jpg" /></a>
+
+  </div>
+
+  <div class="col-6" id="hs-18">
+
+    <a href="https://bit.ly/PentaSLOT" target="_blank" title="pentaslot" rel="noopener"><img data-src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/07/pentaslot.gif" class="img-banner lazy" alt="pentaslot" height="90px" width="532px" src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/load-532.jpg" /></a>
+
+  </div>
+
+  <div class="col-6" id="hs-18">
+
+    <a href="https://bit.ly/Rusia777" target="_blank" title="rusia777" rel="noopener"><img data-src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/04/Rusia777-1.gif" class="img-banner lazy" alt="rusia777" height="90px" width="532px" src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/load-532.jpg" /></a>
+
+  </div>
+
+  <div class="col-6" id="hs-18">
+
+    <a href="https://bit.ly/KaikoSLOT" target="_blank" title="kaikoslot" rel="noopener"><img data-src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/05/kaiko.gif" class="img-banner lazy" alt="kaikoslot" height="90px" width="532px" src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/load-532.jpg" /></a>
+
+  </div>
+
+
+
+  <div class="col-6" id="hs-18">
+
+    <a href="https://bit.ly/rATu89" target="_blank" title="ratu89" rel="noopener"><img data-src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/09/ratu89.gif" class="img-banner lazy" alt="ratu89" height="90px" width="532px" src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/load-532.jpg" /></a>
+
+  </div>
+
+  <div class="col-6" id="hs-18">
+
+    <a href="https://bit.ly/juDi89" target="_blank" title="judi89" rel="noopener"><img data-src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/09/judi89.gif" class="img-banner lazy" alt="judi89" height="90px" width="532px" src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/load-532.jpg" /></a>
+
+  </div>
+
+  
+
+
+
+  <div class="col-6" id="hs-1">
+
+    <a href="https://www.royalebossindex.com/" target="_blank" title="royaleboss, slot, poker, jackpot, online slot, slot, pragmatic, jackpot, online game, online, game, royale, boss" rel="noopener"><img data-src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/RB-pusatfilm21-532x90-1.gif" class="img-banner lazy" alt="Royale boss, slot, poker, jackpot, online slot, slot, pragmatic, jackpot, online game, online, game, royale, boss" height="90px" width="532px" src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/load-532.jpg" /></a>
+
+  </div>
+
+
+
+  <div class="col-6" id="hs-1">
+
+    <a href="https://bit.ly/3T3E2ee" target="_blank" title="i58bet" rel="noopener"><img data-src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/i58bet.gif" class="img-banner lazy" alt="i58bet" height="90px" width="532px" src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/load-532.jpg" /></a>
+
+  </div>
+
+
+
+  <div class="col-6" id="hs-4">
+
+    <a href="https://agbvip99.com/register?ref=bannerpro303" target="_blank" title="agb99" rel="noopener"><img data-src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/agb99.gif" class="img-banner lazy" alt="agb99" height="90px" width="532px" src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/load-532.jpg" /></a>
+
+  </div>
+
+
+
+  <div class="col-12" id="hs-18">
+
+    <a href="https://klik.fun/pusatfilmh1" target="_blank" title="IBO " rel="noopener"><img data-src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/05/ibo1.gif" class="img-banner lazy" alt="IBO " height="90px" width="1080px" src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/load-1080.jpg" /></a>
+
+  </div>
+
+
+
+  <div class="col-12" id="hs-18">
+
+    <a href="https://klik.fun/pusatfilmh2" target="_blank" title="IBO " rel="noopener"><img data-src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/05/ibo2.gif" class="img-banner lazy" alt="IBO " height="90px" width="1080px" src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/load-1080.jpg" /></a>
+
+  </div>
+
+  
+
+  <div class="col-12" id="hs-18">
+
+    <a href="https://18.140.10.249/account/register/pusatfilm138" target="_blank" title="Bendera138" rel="noopener"><img data-src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/bendara138.gif" class="img-banner lazy" alt="Bendera138" height="90px" width="1080px" src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/load-1080.jpg" /></a>
+
+  </div>
+
+  
+
 </div></div></div>
 		
 		<div class="container gmr-maincontent">
@@ -540,136 +628,266 @@ Website kami sangat cocok untuk anda yang ingin mempromosikan website, jualan, a
 
 
 <aside id="secondary" class="widget-area col-md-3 pos-sticky" role="complementary" >
-	<div id="idmuvi-search-3" class="widget idmuvi-advance-search"><h3 class="widget-title">Rekomendasi Film</h3>
-		<div class="gmr-filter-search">
-			<form method="get" role="search" action="https://139.99.23.209/">
-
-				<!-- This is telling the form submit it is going to be search -->
-				<input type="text" name="s" value="" placeholder="Masukkan Film"/>
-				<!-- This is adding an extra 'advanced' string to the URL so we can make difference between normal and this custom search -->
-				<input type="hidden" name="search" value="advanced"/>
-
-				<select name="post_type">
-					<option value="">Semua Tipe</option>
-					<option value="movie">Film</option><option value="tv">TV Show</option>				</select>
-
-									<select name="index">
-						<option value="">Berdasarkan Indeks</option>
-						<option value="73724">Berdasarkan Indeks </option><option value="44544">Berdasarkan Indeks (</option><option value="18848">Berdasarkan Indeks [</option><option value="2148">Berdasarkan Indeks #</option><option value="1">Berdasarkan Indeks 1</option><option value="2">Berdasarkan Indeks 2</option><option value="3">Berdasarkan Indeks 3</option><option value="4">Berdasarkan Indeks 4</option><option value="5">Berdasarkan Indeks 5</option><option value="6">Berdasarkan Indeks 6</option><option value="7">Berdasarkan Indeks 7</option><option value="8">Berdasarkan Indeks 8</option><option value="9">Berdasarkan Indeks 9</option><option value="a">Berdasarkan Indeks a</option><option value="b">Berdasarkan Indeks b</option><option value="c">Berdasarkan Indeks c</option><option value="d">Berdasarkan Indeks d</option><option value="e">Berdasarkan Indeks e</option><option value="f">Berdasarkan Indeks f</option><option value="g">Berdasarkan Indeks g</option><option value="h">Berdasarkan Indeks h</option><option value="i">Berdasarkan Indeks i</option><option value="j">Berdasarkan Indeks j</option><option value="k">Berdasarkan Indeks k</option><option value="l">Berdasarkan Indeks l</option><option value="m">Berdasarkan Indeks m</option><option value="n">Berdasarkan Indeks n</option><option value="o">Berdasarkan Indeks o</option><option value="p">Berdasarkan Indeks p</option><option value="q">Berdasarkan Indeks q</option><option value="r">Berdasarkan Indeks r</option><option value="s">Berdasarkan Indeks s</option><option value="t">Berdasarkan Indeks t</option><option value="u">Berdasarkan Indeks u</option><option value="v">Berdasarkan Indeks v</option><option value="w">Berdasarkan Indeks w</option><option value="x">Berdasarkan Indeks x</option><option value="y">Berdasarkan Indeks y</option><option value="z">Berdasarkan Indeks z</option>					</select>
-				
-				<select name="orderby">
-					<option value="">Urutan</option>
-					<option value="title">Urutan Berdasarkan Judul</option><option value="date">Urutan Berdasarkan Tanggal</option><option value="rating">Urutan Berdasarkan Rating</option>				</select>
-
-									<select name="genre">
-						<option value="">Semua Genre</option>
-						<option value="action">Action</option><option value="action-adventure">Action &amp; Adventure</option><option value="adventure">Adventure</option><option value="animation">Animation</option><option value="comedy">Comedy</option><option value="crime">Crime</option><option value="documentary">Documentary</option><option value="drama">Drama</option><option value="family">Family</option><option value="fantasy">Fantasy</option><option value="featured">Featured</option><option value="foreign">Foreign</option><option value="history">History</option><option value="horror">Horror</option><option value="kids">Kids</option><option value="music">Music</option><option value="musical">Musical</option><option value="mystery">Mystery</option><option value="reality">Reality</option><option value="romance">Romance</option><option value="sci-fi-fantasy">Sci-Fi &amp; Fantasy</option><option value="science-fiction">Science Fiction</option><option value="short">Short</option><option value="soap">Soap</option><option value="sport">Sport</option><option value="talk">Talk</option><option value="thriller">Thriller</option><option value="tv-movie">TV Movie</option><option value="uncategorized">Uncategorized</option><option value="war">War</option><option value="war-politics">War &amp; Politics</option><option value="western">Western</option>					</select>
-				
-									<select name="movieyear">
-						<option value="">Semua Tahun</option>
-						<option value="1920">1920</option><option value="1921">1921</option><option value="1923">1923</option><option value="1924">1924</option><option value="1925">1925</option><option value="1926">1926</option><option value="1928">1928</option><option value="1929">1929</option><option value="1930">1930</option><option value="1931">1931</option><option value="1932">1932</option><option value="1934">1934</option><option value="1935">1935</option><option value="1936">1936</option><option value="1937">1937</option><option value="1938">1938</option><option value="1939">1939</option><option value="1940">1940</option><option value="1941">1941</option><option value="1942">1942</option><option value="1943">1943</option><option value="1944">1944</option><option value="1945">1945</option><option value="1946">1946</option><option value="1947">1947</option><option value="1948">1948</option><option value="1949">1949</option><option value="1950">1950</option><option value="1951">1951</option><option value="1952">1952</option><option value="1953">1953</option><option value="1954">1954</option><option value="1955">1955</option><option value="1956">1956</option><option value="1957">1957</option><option value="1958">1958</option><option value="1959">1959</option><option value="1960">1960</option><option value="1961">1961</option><option value="1962">1962</option><option value="1963">1963</option><option value="1964">1964</option><option value="1965">1965</option><option value="1966">1966</option><option value="1967">1967</option><option value="1968">1968</option><option value="1969">1969</option><option value="1970">1970</option><option value="1971">1971</option><option value="1972">1972</option><option value="1973">1973</option><option value="1974">1974</option><option value="1975">1975</option><option value="1976">1976</option><option value="1977">1977</option><option value="1978">1978</option><option value="1979">1979</option><option value="1980">1980</option><option value="1981">1981</option><option value="1982">1982</option><option value="1983">1983</option><option value="1984">1984</option><option value="1985">1985</option><option value="1986">1986</option><option value="1987">1987</option><option value="1988">1988</option><option value="1989">1989</option><option value="1990">1990</option><option value="1991">1991</option><option value="1992">1992</option><option value="1993">1993</option><option value="1994">1994</option><option value="1995">1995</option><option value="1996">1996</option><option value="1997">1997</option><option value="1998">1998</option><option value="1999">1999</option><option value="2000">2000</option><option value="2001">2001</option><option value="2002">2002</option><option value="2003">2003</option><option value="2004">2004</option><option value="2005">2005</option><option value="2006">2006</option><option value="2007">2007</option><option value="2008">2008</option><option value="2009">2009</option><option value="2010">2010</option><option value="2011">2011</option><option value="2012">2012</option><option value="2013">2013</option><option value="2014">2014</option><option value="2015">2015</option><option value="2016">2016</option><option value="2017">2017</option><option value="2018">2018</option><option value="2019">2019</option><option value="2020">2020</option><option value="2021">2021</option><option value="2022">2022</option><option value="nan">NaN</option>					</select>
-				
-									<select name="country">
-						<option value="">Semua Negara</option>
-						<option value="afghanistan">Afghanistan</option><option value="albania">Albania</option><option value="algeria">Algeria</option><option value="angola">Angola</option><option value="argentina">Argentina</option><option value="armenia">Armenia</option><option value="aruba">Aruba</option><option value="australia">Australia</option><option value="austria">Austria</option><option value="azerbaijan">Azerbaijan</option><option value="bahamas">Bahamas</option><option value="bangladesh">Bangladesh</option><option value="belarus">Belarus</option><option value="belgium">Belgium</option><option value="bermuda">Bermuda</option><option value="bhutan">Bhutan</option><option value="bluray">bluray</option><option value="bolivia">Bolivia</option><option value="bosnia-and-herzegovina">Bosnia And Herzegovina</option><option value="botswana">Botswana</option><option value="brazil">Brazil</option><option value="brunei-darussalam">Brunei Darussalam</option><option value="bulgaria">Bulgaria</option><option value="cambodia">Cambodia</option><option value="cameroon">Cameroon</option><option value="canada">Canada</option><option value="chad">Chad</option><option value="chile">Chile</option><option value="china">China</option><option value="colombia">Colombia</option><option value="costa-rica">Costa Rica</option><option value="cote-divoire">Cote D&#039;Ivoire</option><option value="croatia">Croatia</option><option value="cs">CS</option><option value="cuba">Cuba</option><option value="cyprus">Cyprus</option><option value="czech-republic">Czech Republic</option><option value="denmark">Denmark</option><option value="djibouti">Djibouti</option><option value="dominican-republic">Dominican Republic</option><option value="ecuador">Ecuador</option><option value="egypt">Egypt</option><option value="el-salvador">El Salvador</option><option value="eritrea">Eritrea</option><option value="estonia">Estonia</option><option value="ethiopia">Ethiopia</option><option value="finland">Finland</option><option value="france">France</option><option value="georgia">Georgia</option><option value="germany">Germany</option><option value="ghana">Ghana</option><option value="greece">Greece</option><option value="guatemala">Guatemala</option><option value="honduras">Honduras</option><option value="hong-kong">Hong Kong</option><option value="hungary">Hungary</option><option value="iceland">Iceland</option><option value="india">India</option><option value="indonesia">Indonesia</option><option value="iran">Iran</option><option value="iraq">Iraq</option><option value="ireland">Ireland</option><option value="islamic-republic-of">Islamic Republic Of</option><option value="israel">Israel</option><option value="italy">Italy</option><option value="japan">Japan</option><option value="jordan">Jordan</option><option value="kazakhstan">Kazakhstan</option><option value="kenya">Kenya</option><option value="korea">Korea</option><option value="kuwait">Kuwait</option><option value="kyrgyzstan">Kyrgyzstan</option><option value="lao-peoples-democratic-republic">Lao People&#039;s Democratic Republic</option><option value="latvia">Latvia</option><option value="lebanon">Lebanon</option><option value="libyan-arab-jamahiriya">Libyan Arab Jamahiriya</option><option value="liechtenstein">Liechtenstein</option><option value="lithuania">Lithuania</option><option value="luxembourg">Luxembourg</option><option value="macao">Macao</option><option value="macedonia">Macedonia</option><option value="malawi">Malawi</option><option value="malaysia">Malaysia</option><option value="maldives">Maldives</option><option value="malta">Malta</option><option value="mauritania">Mauritania</option><option value="mauritius">Mauritius</option><option value="mexico">Mexico</option><option value="monaco">Monaco</option><option value="mongolia">Mongolia</option><option value="morocco">Morocco</option><option value="namibia">Namibia</option><option value="nepal">Nepal</option><option value="netherlands">Netherlands</option><option value="netherlands-antilles">Netherlands Antilles</option><option value="new-zealand">New Zealand</option><option value="nicaragua">Nicaragua</option><option value="nigeria">Nigeria</option><option value="norway">Norway</option><option value="occupied">Occupied</option><option value="oman">Oman</option><option value="pakistan">Pakistan</option><option value="palestinian-territory">Palestinian Territory</option><option value="panama">Panama</option><option value="paraguay">Paraguay</option><option value="peru">Peru</option><option value="philippines">Philippines</option><option value="poland">Poland</option><option value="portugal">Portugal</option><option value="puerto-rico">Puerto Rico</option><option value="qatar">Qatar</option><option value="romania">Romania</option><option value="russian-federation">Russian Federation</option><option value="saudi-arabia">Saudi Arabia</option><option value="senegal">Senegal</option><option value="serbia">Serbia</option><option value="serbia-and-montenegro">Serbia and Montenegro</option><option value="singapore">Singapore</option><option value="slovakia">Slovakia</option><option value="slovenia">Slovenia</option><option value="south-africa">South Africa</option><option value="spain">Spain</option><option value="sri-lanka">Sri Lanka</option><option value="su">SU</option><option value="sweden">Sweden</option><option value="switzerland">Switzerland</option><option value="syrian-arab-republic">Syrian Arab Republic</option><option value="taiwan">Taiwan</option><option value="tajikistan">Tajikistan</option><option value="tanzania">Tanzania</option><option value="thailand">Thailand</option><option value="tonga">Tonga</option><option value="trinidad-and-tobago">Trinidad And Tobago</option><option value="tunisia">Tunisia</option><option value="turkey">Turkey</option><option value="uganda">Uganda</option><option value="ukraine">Ukraine</option><option value="united-arab-emirates">United Arab Emirates</option><option value="united-kingdom">United Kingdom</option><option value="uruguay">Uruguay</option><option value="usa">USA</option><option value="uzbekistan">Uzbekistan</option><option value="venezuela">Venezuela</option><option value="viet-nam">Viet Nam</option><option value="webrip">WebRip</option><option value="xc">XC</option><option value="xk">XK</option><option value="yu">YU</option><option value="zambia">Zambia</option>					</select>
-				
-									<select name="quality">
-						<option value="">Semua Kualitas</option>
-						<option value="bluray">BluRay</option><option value="cam">CAM</option><option value="dvdrip">DVDRip</option><option value="dvdscr">DVDSCR</option><option value="fhd">FHD</option><option value="hd">HD</option><option value="hdcam">HDCAM</option><option value="hdrip">HDRip</option><option value="hdtv">HDTV</option><option value="ts">TS</option><option value="web-dl">WEB-DL</option><option value="web-hd">WEB-HD</option><option value="webdl">WEBDL</option><option value="webrip">WEBRip</option>					</select>
-				
-				<input type="submit" value="Cari"/>
-
-			</form>
-		</div>
-
-		</div><div id="idmuvi-rp-3" class="widget idmuvi-rp-widget"><h3 class="widget-title">Film Rekomendasi</h3>
-			<div class="idmuvi-rp-widget">
-				<div class="idmuvi-rp">
-					<ul>
-						<li>								<div class="idmuvi-rp-link clearfix">
-									<a href="https://139.99.23.209/tv/evergreen/" itemprop="url" title="Permalink ke: Evergreen"><img width="60" height="90" src="https://cdn.pusatfilm21.info/wp-content/uploads/2018/05/bYXI3sU0kmaSDu5pzOzk2fhQRAL-60x90.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" itemprop="image" srcset="https://cdn.pusatfilm21.info/wp-content/uploads/2018/05/bYXI3sU0kmaSDu5pzOzk2fhQRAL-60x90.jpg 60w, https://cdn.pusatfilm21.info/wp-content/uploads/2018/05/bYXI3sU0kmaSDu5pzOzk2fhQRAL-152x228.jpg 152w, https://cdn.pusatfilm21.info/wp-content/uploads/2018/05/bYXI3sU0kmaSDu5pzOzk2fhQRAL-170x255.jpg 170w, https://cdn.pusatfilm21.info/wp-content/uploads/2018/05/bYXI3sU0kmaSDu5pzOzk2fhQRAL.jpg 300w" sizes="(max-width: 60px) 100vw, 60px" title="bYXI3sU0kmaSDu5pzOzk2fhQRAL" />
-										<span class="idmuvi-rp-title">
-										Evergreen										</span>
-									</a>
-																			<div class="idmuvi-rp-meta idmuvi-rp-author">
-											<a href="https://139.99.23.209/genre/drama/" rel="category tag">Drama</a>, <a href="https://139.99.23.209/genre/sci-fi-fantasy/" rel="category tag">Sci-Fi &amp; Fantasy</a>, <span itemprop="contentLocation" itemscope itemtype="http://schema.org/Place"><a href="https://139.99.23.209/country/korea/" rel="tag">Korea</a></span>										</div>
-																	</div>
-							</li><li>								<div class="idmuvi-rp-link clearfix">
-									<a href="https://139.99.23.209/a-girl-on-the-shore-2021/" itemprop="url" title="Permalink ke: A Girl on the Shore (2021)"><img width="60" height="90" src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/06/pgU5Fq6QnpR5BCA5cGQ6x6nwxXW-60x90.jpg.webp" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" itemprop="image" srcset="https://cdn.pusatfilm21.info/wp-content/uploads/2022/06/pgU5Fq6QnpR5BCA5cGQ6x6nwxXW-60x90.jpg.webp 60w,https://cdn.pusatfilm21.info/wp-content/uploads/2022/06/pgU5Fq6QnpR5BCA5cGQ6x6nwxXW-152x228.jpg.webp 152w,https://cdn.pusatfilm21.info/wp-content/uploads/2022/06/pgU5Fq6QnpR5BCA5cGQ6x6nwxXW-170x255.jpg.webp 170w,https://cdn.pusatfilm21.info/wp-content/uploads/2022/06/pgU5Fq6QnpR5BCA5cGQ6x6nwxXW.jpg.webp 300w" sizes="(max-width: 60px) 100vw, 60px" title="pgU5Fq6QnpR5BCA5cGQ6x6nwxXW" />
-										<span class="idmuvi-rp-title">
-										A Girl on the Shore (2021)										</span>
-									</a>
-																			<div class="idmuvi-rp-meta idmuvi-rp-author">
-											<a href="https://139.99.23.209/genre/drama/" rel="category tag">Drama</a>, <span itemprop="contentLocation" itemscope itemtype="http://schema.org/Place"><a href="https://139.99.23.209/country/japan/" rel="tag">Japan</a></span>										</div>
-																	</div>
-							</li><li>								<div class="idmuvi-rp-link clearfix">
-									<a href="https://139.99.23.209/creep-2004/" itemprop="url" title="Permalink ke: Creep (2004)"><img width="60" height="90" src="https://cdn.pusatfilm21.info/wp-content/uploads/2021/09/w5oxV6MDEfL48FMK9BmYTD2wQRm-60x90.jpg.webp" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" itemprop="image" srcset="https://cdn.pusatfilm21.info/wp-content/uploads/2021/09/w5oxV6MDEfL48FMK9BmYTD2wQRm-60x90.jpg.webp 60w,https://cdn.pusatfilm21.info/wp-content/uploads/2021/09/w5oxV6MDEfL48FMK9BmYTD2wQRm-152x228.jpg.webp 152w,https://cdn.pusatfilm21.info/wp-content/uploads/2021/09/w5oxV6MDEfL48FMK9BmYTD2wQRm-170x255.jpg.webp 170w,https://cdn.pusatfilm21.info/wp-content/uploads/2021/09/w5oxV6MDEfL48FMK9BmYTD2wQRm.jpg.webp 300w" sizes="(max-width: 60px) 100vw, 60px" title="w5oxV6MDEfL48FMK9BmYTD2wQRm" />
-										<span class="idmuvi-rp-title">
-										Creep (2004)										</span>
-									</a>
-																			<div class="idmuvi-rp-meta idmuvi-rp-author">
-											<a href="https://139.99.23.209/genre/horror/" rel="category tag">Horror</a>, <a href="https://139.99.23.209/genre/mystery/" rel="category tag">Mystery</a>, <a href="https://139.99.23.209/genre/thriller/" rel="category tag">Thriller</a>, <span itemprop="contentLocation" itemscope itemtype="http://schema.org/Place"><a href="https://139.99.23.209/country/germany/" rel="tag">Germany</a></span>, <span itemprop="contentLocation" itemscope itemtype="http://schema.org/Place"><a href="https://139.99.23.209/country/united-kingdom/" rel="tag">United Kingdom</a></span>										</div>
-																	</div>
-							</li><li>								<div class="idmuvi-rp-link clearfix">
-									<a href="https://139.99.23.209/the-valet-2022/" itemprop="url" title="Permalink ke: The Valet (2022)"><img width="60" height="90" src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/05/q7FmdJHKMLIC4XgWfcFRIu2iVdL-60x90.jpg.webp" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" itemprop="image" srcset="https://cdn.pusatfilm21.info/wp-content/uploads/2022/05/q7FmdJHKMLIC4XgWfcFRIu2iVdL-60x90.jpg.webp 60w,https://cdn.pusatfilm21.info/wp-content/uploads/2022/05/q7FmdJHKMLIC4XgWfcFRIu2iVdL-152x228.jpg.webp 152w,https://cdn.pusatfilm21.info/wp-content/uploads/2022/05/q7FmdJHKMLIC4XgWfcFRIu2iVdL-170x255.jpg.webp 170w,https://cdn.pusatfilm21.info/wp-content/uploads/2022/05/q7FmdJHKMLIC4XgWfcFRIu2iVdL.jpg.webp 300w" sizes="(max-width: 60px) 100vw, 60px" title="q7FmdJHKMLIC4XgWfcFRIu2iVdL" />
-										<span class="idmuvi-rp-title">
-										The Valet (2022)										</span>
-									</a>
-																			<div class="idmuvi-rp-meta idmuvi-rp-author">
-											<a href="https://139.99.23.209/genre/comedy/" rel="category tag">Comedy</a>, <span itemprop="contentLocation" itemscope itemtype="http://schema.org/Place"><a href="https://139.99.23.209/country/usa/" rel="tag">USA</a></span>										</div>
-																	</div>
-							</li><li>								<div class="idmuvi-rp-link clearfix">
-									<a href="https://139.99.23.209/luv-1967/" itemprop="url" title="Permalink ke: Luv (1967)"><img width="60" height="90" src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/y7ess1p4m8ZqECFjTxUFGuXXcds-60x90.jpg.webp" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" itemprop="image" srcset="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/y7ess1p4m8ZqECFjTxUFGuXXcds-60x90.jpg.webp 60w,https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/y7ess1p4m8ZqECFjTxUFGuXXcds-152x228.jpg.webp 152w,https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/y7ess1p4m8ZqECFjTxUFGuXXcds-170x255.jpg.webp 170w,https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/y7ess1p4m8ZqECFjTxUFGuXXcds.jpg.webp 300w" sizes="(max-width: 60px) 100vw, 60px" title="y7ess1p4m8ZqECFjTxUFGuXXcds" />
-										<span class="idmuvi-rp-title">
-										Luv (1967)										</span>
-									</a>
-																			<div class="idmuvi-rp-meta idmuvi-rp-author">
-											<a href="https://139.99.23.209/genre/comedy/" rel="category tag">Comedy</a>, <a href="https://139.99.23.209/genre/romance/" rel="category tag">Romance</a>, <span itemprop="contentLocation" itemscope itemtype="http://schema.org/Place"><a href="https://139.99.23.209/country/usa/" rel="tag">USA</a></span>										</div>
-																	</div>
-							</li><li>								<div class="idmuvi-rp-link clearfix">
-									<a href="https://139.99.23.209/souvenir-2021/" itemprop="url" title="Permalink ke: Souvenir (2021)"><img width="60" height="90" src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/33dxxU2Z6eQM6VU7QPN8lZM5o9a-60x90.jpg.webp" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" itemprop="image" srcset="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/33dxxU2Z6eQM6VU7QPN8lZM5o9a-60x90.jpg.webp 60w,https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/33dxxU2Z6eQM6VU7QPN8lZM5o9a-152x228.jpg.webp 152w,https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/33dxxU2Z6eQM6VU7QPN8lZM5o9a-170x255.jpg.webp 170w,https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/33dxxU2Z6eQM6VU7QPN8lZM5o9a.jpg.webp 300w" sizes="(max-width: 60px) 100vw, 60px" title="33dxxU2Z6eQM6VU7QPN8lZM5o9a" />
-										<span class="idmuvi-rp-title">
-										Souvenir (2021)										</span>
-									</a>
-																			<div class="idmuvi-rp-meta idmuvi-rp-author">
-											<a href="https://139.99.23.209/genre/drama/" rel="category tag">Drama</a>, <span itemprop="contentLocation" itemscope itemtype="http://schema.org/Place"><a href="https://139.99.23.209/country/mexico/" rel="tag">Mexico</a></span>										</div>
-																	</div>
-							</li><li>								<div class="idmuvi-rp-link clearfix">
-									<a href="https://139.99.23.209/where-the-wild-things-are-2009/" itemprop="url" title="Permalink ke: Where the Wild Things Are (2009)"><img width="60" height="90" src="https://cdn.pusatfilm21.info/wp-content/uploads/2021/09/sDFV9VEjwTUWF1s5sjOllsb70jk-60x90.jpg.webp" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" itemprop="image" srcset="https://cdn.pusatfilm21.info/wp-content/uploads/2021/09/sDFV9VEjwTUWF1s5sjOllsb70jk-60x90.jpg.webp 60w,https://cdn.pusatfilm21.info/wp-content/uploads/2021/09/sDFV9VEjwTUWF1s5sjOllsb70jk-152x228.jpg.webp 152w,https://cdn.pusatfilm21.info/wp-content/uploads/2021/09/sDFV9VEjwTUWF1s5sjOllsb70jk-170x255.jpg.webp 170w,https://cdn.pusatfilm21.info/wp-content/uploads/2021/09/sDFV9VEjwTUWF1s5sjOllsb70jk.jpg.webp 300w" sizes="(max-width: 60px) 100vw, 60px" title="sDFV9VEjwTUWF1s5sjOllsb70jk" />
-										<span class="idmuvi-rp-title">
-										Where the Wild Things Are (2009)										</span>
-									</a>
-																			<div class="idmuvi-rp-meta idmuvi-rp-author">
-											<a href="https://139.99.23.209/genre/drama/" rel="category tag">Drama</a>, <a href="https://139.99.23.209/genre/family/" rel="category tag">Family</a>, <a href="https://139.99.23.209/genre/fantasy/" rel="category tag">Fantasy</a>, <span itemprop="contentLocation" itemscope itemtype="http://schema.org/Place"><a href="https://139.99.23.209/country/australia/" rel="tag">Australia</a></span>, <span itemprop="contentLocation" itemscope itemtype="http://schema.org/Place"><a href="https://139.99.23.209/country/germany/" rel="tag">Germany</a></span>, <span itemprop="contentLocation" itemscope itemtype="http://schema.org/Place"><a href="https://139.99.23.209/country/usa/" rel="tag">USA</a></span>										</div>
-																	</div>
-							</li><li>								<div class="idmuvi-rp-link clearfix">
-									<a href="https://139.99.23.209/tv/the-bond/" itemprop="url" title="Permalink ke: The Bond"><img width="60" height="90" src="https://cdn.pusatfilm21.info/wp-content/uploads/2021/09/tTgSB36gY7IHVTt2khlQAtaxFW3-60x90.jpg.webp" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" itemprop="image" srcset="https://cdn.pusatfilm21.info/wp-content/uploads/2021/09/tTgSB36gY7IHVTt2khlQAtaxFW3-60x90.jpg.webp 60w,https://cdn.pusatfilm21.info/wp-content/uploads/2021/09/tTgSB36gY7IHVTt2khlQAtaxFW3-152x228.jpg.webp 152w,https://cdn.pusatfilm21.info/wp-content/uploads/2021/09/tTgSB36gY7IHVTt2khlQAtaxFW3-170x255.jpg.webp 170w,https://cdn.pusatfilm21.info/wp-content/uploads/2021/09/tTgSB36gY7IHVTt2khlQAtaxFW3.jpg.webp 300w" sizes="(max-width: 60px) 100vw, 60px" title="tTgSB36gY7IHVTt2khlQAtaxFW3" />
-										<span class="idmuvi-rp-title">
-										The Bond										</span>
-									</a>
-																			<div class="idmuvi-rp-meta idmuvi-rp-author">
-											<a href="https://139.99.23.209/genre/drama/" rel="category tag">Drama</a>, <a href="https://139.99.23.209/genre/family/" rel="category tag">Family</a>, 										</div>
-																	</div>
-							</li><li>								<div class="idmuvi-rp-link clearfix">
-									<a href="https://139.99.23.209/elsa-fred-2014/" itemprop="url" title="Permalink ke: Elsa &#038; Fred (2014)"><img width="60" height="90" src="https://cdn.pusatfilm21.info/wp-content/uploads/2021/06/6BCPzvCkK0MYgJ4ws6n3ppHx8UM-60x90.jpg.webp" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" itemprop="image" srcset="https://cdn.pusatfilm21.info/wp-content/uploads/2021/06/6BCPzvCkK0MYgJ4ws6n3ppHx8UM-60x90.jpg.webp 60w,https://cdn.pusatfilm21.info/wp-content/uploads/2021/06/6BCPzvCkK0MYgJ4ws6n3ppHx8UM-152x228.jpg.webp 152w,https://cdn.pusatfilm21.info/wp-content/uploads/2021/06/6BCPzvCkK0MYgJ4ws6n3ppHx8UM-170x255.jpg.webp 170w,https://cdn.pusatfilm21.info/wp-content/uploads/2021/06/6BCPzvCkK0MYgJ4ws6n3ppHx8UM.jpg.webp 300w" sizes="(max-width: 60px) 100vw, 60px" title="6BCPzvCkK0MYgJ4ws6n3ppHx8UM" />
-										<span class="idmuvi-rp-title">
-										Elsa &#038; Fred (2014)										</span>
-									</a>
-																			<div class="idmuvi-rp-meta idmuvi-rp-author">
-											<a href="https://139.99.23.209/genre/comedy/" rel="category tag">Comedy</a>, <a href="https://139.99.23.209/genre/drama/" rel="category tag">Drama</a>, <a href="https://139.99.23.209/genre/romance/" rel="category tag">Romance</a>, <span itemprop="contentLocation" itemscope itemtype="http://schema.org/Place"><a href="https://139.99.23.209/country/usa/" rel="tag">USA</a></span>										</div>
-																	</div>
-							</li><li>								<div class="idmuvi-rp-link clearfix">
-									<a href="https://139.99.23.209/silent-tokyo-2020/" itemprop="url" title="Permalink ke: Silent Tokyo (2020)"><img width="60" height="90" src="https://cdn.pusatfilm21.info/wp-content/uploads/2021/08/2LUp2mWOq28JGwWZENnzYqAIWol-60x90.jpg.webp" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" itemprop="image" srcset="https://cdn.pusatfilm21.info/wp-content/uploads/2021/08/2LUp2mWOq28JGwWZENnzYqAIWol-60x90.jpg.webp 60w,https://cdn.pusatfilm21.info/wp-content/uploads/2021/08/2LUp2mWOq28JGwWZENnzYqAIWol-152x228.jpg.webp 152w,https://cdn.pusatfilm21.info/wp-content/uploads/2021/08/2LUp2mWOq28JGwWZENnzYqAIWol-170x255.jpg.webp 170w" sizes="(max-width: 60px) 100vw, 60px" title="2LUp2mWOq28JGwWZENnzYqAIWol" />
-										<span class="idmuvi-rp-title">
-										Silent Tokyo (2020)										</span>
-									</a>
-																			<div class="idmuvi-rp-meta idmuvi-rp-author">
-											<a href="https://139.99.23.209/genre/thriller/" rel="category tag">Thriller</a>, <span itemprop="contentLocation" itemscope itemtype="http://schema.org/Place"><a href="https://139.99.23.209/country/japan/" rel="tag">Japan</a></span>										</div>
-																	</div>
-							</li>											</ul>
-				</div>
-			</div>
-
+	<div id="idmuvi-search-3" class="widget idmuvi-advance-search"><h3 class="widget-title">Rekomendasi Film</h3>
+
+		<div class="gmr-filter-search">
+
+			<form method="get" role="search" action="https://139.99.23.209/">
+
+
+
+				<!-- This is telling the form submit it is going to be search -->
+
+				<input type="text" name="s" value="" placeholder="Masukkan Film"/>
+
+				<!-- This is adding an extra 'advanced' string to the URL so we can make difference between normal and this custom search -->
+
+				<input type="hidden" name="search" value="advanced"/>
+
+
+
+				<select name="post_type">
+
+					<option value="">Semua Tipe</option>
+
+					<option value="movie">Film</option><option value="tv">TV Show</option>				</select>
+
+
+
+									<select name="index">
+
+						<option value="">Berdasarkan Indeks</option>
+
+						<option value="73724">Berdasarkan Indeks </option><option value="44544">Berdasarkan Indeks (</option><option value="18848">Berdasarkan Indeks [</option><option value="2148">Berdasarkan Indeks #</option><option value="1">Berdasarkan Indeks 1</option><option value="2">Berdasarkan Indeks 2</option><option value="3">Berdasarkan Indeks 3</option><option value="4">Berdasarkan Indeks 4</option><option value="5">Berdasarkan Indeks 5</option><option value="6">Berdasarkan Indeks 6</option><option value="7">Berdasarkan Indeks 7</option><option value="8">Berdasarkan Indeks 8</option><option value="9">Berdasarkan Indeks 9</option><option value="a">Berdasarkan Indeks a</option><option value="b">Berdasarkan Indeks b</option><option value="c">Berdasarkan Indeks c</option><option value="d">Berdasarkan Indeks d</option><option value="e">Berdasarkan Indeks e</option><option value="f">Berdasarkan Indeks f</option><option value="g">Berdasarkan Indeks g</option><option value="h">Berdasarkan Indeks h</option><option value="i">Berdasarkan Indeks i</option><option value="j">Berdasarkan Indeks j</option><option value="k">Berdasarkan Indeks k</option><option value="l">Berdasarkan Indeks l</option><option value="m">Berdasarkan Indeks m</option><option value="n">Berdasarkan Indeks n</option><option value="o">Berdasarkan Indeks o</option><option value="p">Berdasarkan Indeks p</option><option value="q">Berdasarkan Indeks q</option><option value="r">Berdasarkan Indeks r</option><option value="s">Berdasarkan Indeks s</option><option value="t">Berdasarkan Indeks t</option><option value="u">Berdasarkan Indeks u</option><option value="v">Berdasarkan Indeks v</option><option value="w">Berdasarkan Indeks w</option><option value="x">Berdasarkan Indeks x</option><option value="y">Berdasarkan Indeks y</option><option value="z">Berdasarkan Indeks z</option>					</select>
+
+				
+
+				<select name="orderby">
+
+					<option value="">Urutan</option>
+
+					<option value="title">Urutan Berdasarkan Judul</option><option value="date">Urutan Berdasarkan Tanggal</option><option value="rating">Urutan Berdasarkan Rating</option>				</select>
+
+
+
+									<select name="genre">
+
+						<option value="">Semua Genre</option>
+
+						<option value="action">Action</option><option value="action-adventure">Action &amp; Adventure</option><option value="adventure">Adventure</option><option value="animation">Animation</option><option value="comedy">Comedy</option><option value="crime">Crime</option><option value="documentary">Documentary</option><option value="drama">Drama</option><option value="family">Family</option><option value="fantasy">Fantasy</option><option value="featured">Featured</option><option value="foreign">Foreign</option><option value="history">History</option><option value="horror">Horror</option><option value="kids">Kids</option><option value="music">Music</option><option value="musical">Musical</option><option value="mystery">Mystery</option><option value="reality">Reality</option><option value="romance">Romance</option><option value="sci-fi-fantasy">Sci-Fi &amp; Fantasy</option><option value="science-fiction">Science Fiction</option><option value="short">Short</option><option value="soap">Soap</option><option value="sport">Sport</option><option value="talk">Talk</option><option value="thriller">Thriller</option><option value="tv-movie">TV Movie</option><option value="uncategorized">Uncategorized</option><option value="war">War</option><option value="war-politics">War &amp; Politics</option><option value="western">Western</option>					</select>
+
+				
+
+									<select name="movieyear">
+
+						<option value="">Semua Tahun</option>
+
+						<option value="1920">1920</option><option value="1921">1921</option><option value="1923">1923</option><option value="1924">1924</option><option value="1925">1925</option><option value="1926">1926</option><option value="1928">1928</option><option value="1929">1929</option><option value="1930">1930</option><option value="1931">1931</option><option value="1932">1932</option><option value="1934">1934</option><option value="1935">1935</option><option value="1936">1936</option><option value="1937">1937</option><option value="1938">1938</option><option value="1939">1939</option><option value="1940">1940</option><option value="1941">1941</option><option value="1942">1942</option><option value="1943">1943</option><option value="1944">1944</option><option value="1945">1945</option><option value="1946">1946</option><option value="1947">1947</option><option value="1948">1948</option><option value="1949">1949</option><option value="1950">1950</option><option value="1951">1951</option><option value="1952">1952</option><option value="1953">1953</option><option value="1954">1954</option><option value="1955">1955</option><option value="1956">1956</option><option value="1957">1957</option><option value="1958">1958</option><option value="1959">1959</option><option value="1960">1960</option><option value="1961">1961</option><option value="1962">1962</option><option value="1963">1963</option><option value="1964">1964</option><option value="1965">1965</option><option value="1966">1966</option><option value="1967">1967</option><option value="1968">1968</option><option value="1969">1969</option><option value="1970">1970</option><option value="1971">1971</option><option value="1972">1972</option><option value="1973">1973</option><option value="1974">1974</option><option value="1975">1975</option><option value="1976">1976</option><option value="1977">1977</option><option value="1978">1978</option><option value="1979">1979</option><option value="1980">1980</option><option value="1981">1981</option><option value="1982">1982</option><option value="1983">1983</option><option value="1984">1984</option><option value="1985">1985</option><option value="1986">1986</option><option value="1987">1987</option><option value="1988">1988</option><option value="1989">1989</option><option value="1990">1990</option><option value="1991">1991</option><option value="1992">1992</option><option value="1993">1993</option><option value="1994">1994</option><option value="1995">1995</option><option value="1996">1996</option><option value="1997">1997</option><option value="1998">1998</option><option value="1999">1999</option><option value="2000">2000</option><option value="2001">2001</option><option value="2002">2002</option><option value="2003">2003</option><option value="2004">2004</option><option value="2005">2005</option><option value="2006">2006</option><option value="2007">2007</option><option value="2008">2008</option><option value="2009">2009</option><option value="2010">2010</option><option value="2011">2011</option><option value="2012">2012</option><option value="2013">2013</option><option value="2014">2014</option><option value="2015">2015</option><option value="2016">2016</option><option value="2017">2017</option><option value="2018">2018</option><option value="2019">2019</option><option value="2020">2020</option><option value="2021">2021</option><option value="2022">2022</option><option value="nan">NaN</option>					</select>
+
+				
+
+									<select name="country">
+
+						<option value="">Semua Negara</option>
+
+						<option value="afghanistan">Afghanistan</option><option value="albania">Albania</option><option value="algeria">Algeria</option><option value="angola">Angola</option><option value="argentina">Argentina</option><option value="armenia">Armenia</option><option value="aruba">Aruba</option><option value="australia">Australia</option><option value="austria">Austria</option><option value="azerbaijan">Azerbaijan</option><option value="bahamas">Bahamas</option><option value="bangladesh">Bangladesh</option><option value="belarus">Belarus</option><option value="belgium">Belgium</option><option value="bermuda">Bermuda</option><option value="bhutan">Bhutan</option><option value="bluray">bluray</option><option value="bolivia">Bolivia</option><option value="bosnia-and-herzegovina">Bosnia And Herzegovina</option><option value="botswana">Botswana</option><option value="brazil">Brazil</option><option value="brunei-darussalam">Brunei Darussalam</option><option value="bulgaria">Bulgaria</option><option value="cambodia">Cambodia</option><option value="cameroon">Cameroon</option><option value="canada">Canada</option><option value="chad">Chad</option><option value="chile">Chile</option><option value="china">China</option><option value="colombia">Colombia</option><option value="costa-rica">Costa Rica</option><option value="cote-divoire">Cote D&#039;Ivoire</option><option value="croatia">Croatia</option><option value="cs">CS</option><option value="cuba">Cuba</option><option value="cyprus">Cyprus</option><option value="czech-republic">Czech Republic</option><option value="denmark">Denmark</option><option value="djibouti">Djibouti</option><option value="dominican-republic">Dominican Republic</option><option value="ecuador">Ecuador</option><option value="egypt">Egypt</option><option value="el-salvador">El Salvador</option><option value="eritrea">Eritrea</option><option value="estonia">Estonia</option><option value="ethiopia">Ethiopia</option><option value="finland">Finland</option><option value="france">France</option><option value="georgia">Georgia</option><option value="germany">Germany</option><option value="ghana">Ghana</option><option value="greece">Greece</option><option value="guatemala">Guatemala</option><option value="honduras">Honduras</option><option value="hong-kong">Hong Kong</option><option value="hungary">Hungary</option><option value="iceland">Iceland</option><option value="india">India</option><option value="indonesia">Indonesia</option><option value="iran">Iran</option><option value="iraq">Iraq</option><option value="ireland">Ireland</option><option value="islamic-republic-of">Islamic Republic Of</option><option value="israel">Israel</option><option value="italy">Italy</option><option value="japan">Japan</option><option value="jordan">Jordan</option><option value="kazakhstan">Kazakhstan</option><option value="kenya">Kenya</option><option value="korea">Korea</option><option value="kuwait">Kuwait</option><option value="kyrgyzstan">Kyrgyzstan</option><option value="lao-peoples-democratic-republic">Lao People&#039;s Democratic Republic</option><option value="latvia">Latvia</option><option value="lebanon">Lebanon</option><option value="libyan-arab-jamahiriya">Libyan Arab Jamahiriya</option><option value="liechtenstein">Liechtenstein</option><option value="lithuania">Lithuania</option><option value="luxembourg">Luxembourg</option><option value="macao">Macao</option><option value="macedonia">Macedonia</option><option value="malawi">Malawi</option><option value="malaysia">Malaysia</option><option value="maldives">Maldives</option><option value="malta">Malta</option><option value="mauritania">Mauritania</option><option value="mauritius">Mauritius</option><option value="mexico">Mexico</option><option value="monaco">Monaco</option><option value="mongolia">Mongolia</option><option value="morocco">Morocco</option><option value="namibia">Namibia</option><option value="nepal">Nepal</option><option value="netherlands">Netherlands</option><option value="netherlands-antilles">Netherlands Antilles</option><option value="new-zealand">New Zealand</option><option value="nicaragua">Nicaragua</option><option value="nigeria">Nigeria</option><option value="norway">Norway</option><option value="occupied">Occupied</option><option value="oman">Oman</option><option value="pakistan">Pakistan</option><option value="palestinian-territory">Palestinian Territory</option><option value="panama">Panama</option><option value="paraguay">Paraguay</option><option value="peru">Peru</option><option value="philippines">Philippines</option><option value="poland">Poland</option><option value="portugal">Portugal</option><option value="puerto-rico">Puerto Rico</option><option value="qatar">Qatar</option><option value="romania">Romania</option><option value="russian-federation">Russian Federation</option><option value="saudi-arabia">Saudi Arabia</option><option value="senegal">Senegal</option><option value="serbia">Serbia</option><option value="serbia-and-montenegro">Serbia and Montenegro</option><option value="singapore">Singapore</option><option value="slovakia">Slovakia</option><option value="slovenia">Slovenia</option><option value="south-africa">South Africa</option><option value="spain">Spain</option><option value="sri-lanka">Sri Lanka</option><option value="su">SU</option><option value="sweden">Sweden</option><option value="switzerland">Switzerland</option><option value="syrian-arab-republic">Syrian Arab Republic</option><option value="taiwan">Taiwan</option><option value="tajikistan">Tajikistan</option><option value="tanzania">Tanzania</option><option value="thailand">Thailand</option><option value="tonga">Tonga</option><option value="trinidad-and-tobago">Trinidad And Tobago</option><option value="tunisia">Tunisia</option><option value="turkey">Turkey</option><option value="uganda">Uganda</option><option value="ukraine">Ukraine</option><option value="united-arab-emirates">United Arab Emirates</option><option value="united-kingdom">United Kingdom</option><option value="uruguay">Uruguay</option><option value="usa">USA</option><option value="uzbekistan">Uzbekistan</option><option value="venezuela">Venezuela</option><option value="viet-nam">Viet Nam</option><option value="webrip">WebRip</option><option value="xc">XC</option><option value="xk">XK</option><option value="yu">YU</option><option value="zambia">Zambia</option>					</select>
+
+				
+
+									<select name="quality">
+
+						<option value="">Semua Kualitas</option>
+
+						<option value="bluray">BluRay</option><option value="cam">CAM</option><option value="dvdrip">DVDRip</option><option value="dvdscr">DVDSCR</option><option value="fhd">FHD</option><option value="hd">HD</option><option value="hdcam">HDCAM</option><option value="hdrip">HDRip</option><option value="hdtv">HDTV</option><option value="ts">TS</option><option value="web-dl">WEB-DL</option><option value="web-hd">WEB-HD</option><option value="webdl">WEBDL</option><option value="webrip">WEBRip</option>					</select>
+
+				
+
+				<input type="submit" value="Cari"/>
+
+
+
+			</form>
+
+		</div>
+
+
+
+		</div><div id="idmuvi-rp-3" class="widget idmuvi-rp-widget"><h3 class="widget-title">Film Rekomendasi</h3>
+
+			<div class="idmuvi-rp-widget">
+
+				<div class="idmuvi-rp">
+
+					<ul>
+
+						<li>								<div class="idmuvi-rp-link clearfix">
+
+									<a href="https://139.99.23.209/tv/evergreen/" itemprop="url" title="Permalink ke: Evergreen"><img width="60" height="90" src="https://cdn.pusatfilm21.info/wp-content/uploads/2018/05/bYXI3sU0kmaSDu5pzOzk2fhQRAL-60x90.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" itemprop="image" srcset="https://cdn.pusatfilm21.info/wp-content/uploads/2018/05/bYXI3sU0kmaSDu5pzOzk2fhQRAL-60x90.jpg 60w, https://cdn.pusatfilm21.info/wp-content/uploads/2018/05/bYXI3sU0kmaSDu5pzOzk2fhQRAL-152x228.jpg 152w, https://cdn.pusatfilm21.info/wp-content/uploads/2018/05/bYXI3sU0kmaSDu5pzOzk2fhQRAL-170x255.jpg 170w, https://cdn.pusatfilm21.info/wp-content/uploads/2018/05/bYXI3sU0kmaSDu5pzOzk2fhQRAL.jpg 300w" sizes="(max-width: 60px) 100vw, 60px" title="bYXI3sU0kmaSDu5pzOzk2fhQRAL" />
+
+										<span class="idmuvi-rp-title">
+
+										Evergreen										</span>
+
+									</a>
+
+																			<div class="idmuvi-rp-meta idmuvi-rp-author">
+
+											<a href="https://139.99.23.209/genre/drama/" rel="category tag">Drama</a>, <a href="https://139.99.23.209/genre/sci-fi-fantasy/" rel="category tag">Sci-Fi &amp; Fantasy</a>, <span itemprop="contentLocation" itemscope itemtype="http://schema.org/Place"><a href="https://139.99.23.209/country/korea/" rel="tag">Korea</a></span>										</div>
+
+																	</div>
+
+							</li><li>								<div class="idmuvi-rp-link clearfix">
+
+									<a href="https://139.99.23.209/a-girl-on-the-shore-2021/" itemprop="url" title="Permalink ke: A Girl on the Shore (2021)"><img width="60" height="90" src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/06/pgU5Fq6QnpR5BCA5cGQ6x6nwxXW-60x90.jpg.webp" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" itemprop="image" srcset="https://cdn.pusatfilm21.info/wp-content/uploads/2022/06/pgU5Fq6QnpR5BCA5cGQ6x6nwxXW-60x90.jpg.webp 60w,https://cdn.pusatfilm21.info/wp-content/uploads/2022/06/pgU5Fq6QnpR5BCA5cGQ6x6nwxXW-152x228.jpg.webp 152w,https://cdn.pusatfilm21.info/wp-content/uploads/2022/06/pgU5Fq6QnpR5BCA5cGQ6x6nwxXW-170x255.jpg.webp 170w,https://cdn.pusatfilm21.info/wp-content/uploads/2022/06/pgU5Fq6QnpR5BCA5cGQ6x6nwxXW.jpg.webp 300w" sizes="(max-width: 60px) 100vw, 60px" title="pgU5Fq6QnpR5BCA5cGQ6x6nwxXW" />
+
+										<span class="idmuvi-rp-title">
+
+										A Girl on the Shore (2021)										</span>
+
+									</a>
+
+																			<div class="idmuvi-rp-meta idmuvi-rp-author">
+
+											<a href="https://139.99.23.209/genre/drama/" rel="category tag">Drama</a>, <span itemprop="contentLocation" itemscope itemtype="http://schema.org/Place"><a href="https://139.99.23.209/country/japan/" rel="tag">Japan</a></span>										</div>
+
+																	</div>
+
+							</li><li>								<div class="idmuvi-rp-link clearfix">
+
+									<a href="https://139.99.23.209/creep-2004/" itemprop="url" title="Permalink ke: Creep (2004)"><img width="60" height="90" src="https://cdn.pusatfilm21.info/wp-content/uploads/2021/09/w5oxV6MDEfL48FMK9BmYTD2wQRm-60x90.jpg.webp" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" itemprop="image" srcset="https://cdn.pusatfilm21.info/wp-content/uploads/2021/09/w5oxV6MDEfL48FMK9BmYTD2wQRm-60x90.jpg.webp 60w,https://cdn.pusatfilm21.info/wp-content/uploads/2021/09/w5oxV6MDEfL48FMK9BmYTD2wQRm-152x228.jpg.webp 152w,https://cdn.pusatfilm21.info/wp-content/uploads/2021/09/w5oxV6MDEfL48FMK9BmYTD2wQRm-170x255.jpg.webp 170w,https://cdn.pusatfilm21.info/wp-content/uploads/2021/09/w5oxV6MDEfL48FMK9BmYTD2wQRm.jpg.webp 300w" sizes="(max-width: 60px) 100vw, 60px" title="w5oxV6MDEfL48FMK9BmYTD2wQRm" />
+
+										<span class="idmuvi-rp-title">
+
+										Creep (2004)										</span>
+
+									</a>
+
+																			<div class="idmuvi-rp-meta idmuvi-rp-author">
+
+											<a href="https://139.99.23.209/genre/horror/" rel="category tag">Horror</a>, <a href="https://139.99.23.209/genre/mystery/" rel="category tag">Mystery</a>, <a href="https://139.99.23.209/genre/thriller/" rel="category tag">Thriller</a>, <span itemprop="contentLocation" itemscope itemtype="http://schema.org/Place"><a href="https://139.99.23.209/country/germany/" rel="tag">Germany</a></span>, <span itemprop="contentLocation" itemscope itemtype="http://schema.org/Place"><a href="https://139.99.23.209/country/united-kingdom/" rel="tag">United Kingdom</a></span>										</div>
+
+																	</div>
+
+							</li><li>								<div class="idmuvi-rp-link clearfix">
+
+									<a href="https://139.99.23.209/the-valet-2022/" itemprop="url" title="Permalink ke: The Valet (2022)"><img width="60" height="90" src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/05/q7FmdJHKMLIC4XgWfcFRIu2iVdL-60x90.jpg.webp" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" itemprop="image" srcset="https://cdn.pusatfilm21.info/wp-content/uploads/2022/05/q7FmdJHKMLIC4XgWfcFRIu2iVdL-60x90.jpg.webp 60w,https://cdn.pusatfilm21.info/wp-content/uploads/2022/05/q7FmdJHKMLIC4XgWfcFRIu2iVdL-152x228.jpg.webp 152w,https://cdn.pusatfilm21.info/wp-content/uploads/2022/05/q7FmdJHKMLIC4XgWfcFRIu2iVdL-170x255.jpg.webp 170w,https://cdn.pusatfilm21.info/wp-content/uploads/2022/05/q7FmdJHKMLIC4XgWfcFRIu2iVdL.jpg.webp 300w" sizes="(max-width: 60px) 100vw, 60px" title="q7FmdJHKMLIC4XgWfcFRIu2iVdL" />
+
+										<span class="idmuvi-rp-title">
+
+										The Valet (2022)										</span>
+
+									</a>
+
+																			<div class="idmuvi-rp-meta idmuvi-rp-author">
+
+											<a href="https://139.99.23.209/genre/comedy/" rel="category tag">Comedy</a>, <span itemprop="contentLocation" itemscope itemtype="http://schema.org/Place"><a href="https://139.99.23.209/country/usa/" rel="tag">USA</a></span>										</div>
+
+																	</div>
+
+							</li><li>								<div class="idmuvi-rp-link clearfix">
+
+									<a href="https://139.99.23.209/luv-1967/" itemprop="url" title="Permalink ke: Luv (1967)"><img width="60" height="90" src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/y7ess1p4m8ZqECFjTxUFGuXXcds-60x90.jpg.webp" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" itemprop="image" srcset="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/y7ess1p4m8ZqECFjTxUFGuXXcds-60x90.jpg.webp 60w,https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/y7ess1p4m8ZqECFjTxUFGuXXcds-152x228.jpg.webp 152w,https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/y7ess1p4m8ZqECFjTxUFGuXXcds-170x255.jpg.webp 170w,https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/y7ess1p4m8ZqECFjTxUFGuXXcds.jpg.webp 300w" sizes="(max-width: 60px) 100vw, 60px" title="y7ess1p4m8ZqECFjTxUFGuXXcds" />
+
+										<span class="idmuvi-rp-title">
+
+										Luv (1967)										</span>
+
+									</a>
+
+																			<div class="idmuvi-rp-meta idmuvi-rp-author">
+
+											<a href="https://139.99.23.209/genre/comedy/" rel="category tag">Comedy</a>, <a href="https://139.99.23.209/genre/romance/" rel="category tag">Romance</a>, <span itemprop="contentLocation" itemscope itemtype="http://schema.org/Place"><a href="https://139.99.23.209/country/usa/" rel="tag">USA</a></span>										</div>
+
+																	</div>
+
+							</li><li>								<div class="idmuvi-rp-link clearfix">
+
+									<a href="https://139.99.23.209/souvenir-2021/" itemprop="url" title="Permalink ke: Souvenir (2021)"><img width="60" height="90" src="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/33dxxU2Z6eQM6VU7QPN8lZM5o9a-60x90.jpg.webp" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" itemprop="image" srcset="https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/33dxxU2Z6eQM6VU7QPN8lZM5o9a-60x90.jpg.webp 60w,https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/33dxxU2Z6eQM6VU7QPN8lZM5o9a-152x228.jpg.webp 152w,https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/33dxxU2Z6eQM6VU7QPN8lZM5o9a-170x255.jpg.webp 170w,https://cdn.pusatfilm21.info/wp-content/uploads/2022/11/33dxxU2Z6eQM6VU7QPN8lZM5o9a.jpg.webp 300w" sizes="(max-width: 60px) 100vw, 60px" title="33dxxU2Z6eQM6VU7QPN8lZM5o9a" />
+
+										<span class="idmuvi-rp-title">
+
+										Souvenir (2021)										</span>
+
+									</a>
+
+																			<div class="idmuvi-rp-meta idmuvi-rp-author">
+
+											<a href="https://139.99.23.209/genre/drama/" rel="category tag">Drama</a>, <span itemprop="contentLocation" itemscope itemtype="http://schema.org/Place"><a href="https://139.99.23.209/country/mexico/" rel="tag">Mexico</a></span>										</div>
+
+																	</div>
+
+							</li><li>								<div class="idmuvi-rp-link clearfix">
+
+									<a href="https://139.99.23.209/where-the-wild-things-are-2009/" itemprop="url" title="Permalink ke: Where the Wild Things Are (2009)"><img width="60" height="90" src="https://cdn.pusatfilm21.info/wp-content/uploads/2021/09/sDFV9VEjwTUWF1s5sjOllsb70jk-60x90.jpg.webp" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" itemprop="image" srcset="https://cdn.pusatfilm21.info/wp-content/uploads/2021/09/sDFV9VEjwTUWF1s5sjOllsb70jk-60x90.jpg.webp 60w,https://cdn.pusatfilm21.info/wp-content/uploads/2021/09/sDFV9VEjwTUWF1s5sjOllsb70jk-152x228.jpg.webp 152w,https://cdn.pusatfilm21.info/wp-content/uploads/2021/09/sDFV9VEjwTUWF1s5sjOllsb70jk-170x255.jpg.webp 170w,https://cdn.pusatfilm21.info/wp-content/uploads/2021/09/sDFV9VEjwTUWF1s5sjOllsb70jk.jpg.webp 300w" sizes="(max-width: 60px) 100vw, 60px" title="sDFV9VEjwTUWF1s5sjOllsb70jk" />
+
+										<span class="idmuvi-rp-title">
+
+										Where the Wild Things Are (2009)										</span>
+
+									</a>
+
+																			<div class="idmuvi-rp-meta idmuvi-rp-author">
+
+											<a href="https://139.99.23.209/genre/drama/" rel="category tag">Drama</a>, <a href="https://139.99.23.209/genre/family/" rel="category tag">Family</a>, <a href="https://139.99.23.209/genre/fantasy/" rel="category tag">Fantasy</a>, <span itemprop="contentLocation" itemscope itemtype="http://schema.org/Place"><a href="https://139.99.23.209/country/australia/" rel="tag">Australia</a></span>, <span itemprop="contentLocation" itemscope itemtype="http://schema.org/Place"><a href="https://139.99.23.209/country/germany/" rel="tag">Germany</a></span>, <span itemprop="contentLocation" itemscope itemtype="http://schema.org/Place"><a href="https://139.99.23.209/country/usa/" rel="tag">USA</a></span>										</div>
+
+																	</div>
+
+							</li><li>								<div class="idmuvi-rp-link clearfix">
+
+									<a href="https://139.99.23.209/tv/the-bond/" itemprop="url" title="Permalink ke: The Bond"><img width="60" height="90" src="https://cdn.pusatfilm21.info/wp-content/uploads/2021/09/tTgSB36gY7IHVTt2khlQAtaxFW3-60x90.jpg.webp" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" itemprop="image" srcset="https://cdn.pusatfilm21.info/wp-content/uploads/2021/09/tTgSB36gY7IHVTt2khlQAtaxFW3-60x90.jpg.webp 60w,https://cdn.pusatfilm21.info/wp-content/uploads/2021/09/tTgSB36gY7IHVTt2khlQAtaxFW3-152x228.jpg.webp 152w,https://cdn.pusatfilm21.info/wp-content/uploads/2021/09/tTgSB36gY7IHVTt2khlQAtaxFW3-170x255.jpg.webp 170w,https://cdn.pusatfilm21.info/wp-content/uploads/2021/09/tTgSB36gY7IHVTt2khlQAtaxFW3.jpg.webp 300w" sizes="(max-width: 60px) 100vw, 60px" title="tTgSB36gY7IHVTt2khlQAtaxFW3" />
+
+										<span class="idmuvi-rp-title">
+
+										The Bond										</span>
+
+									</a>
+
+																			<div class="idmuvi-rp-meta idmuvi-rp-author">
+
+											<a href="https://139.99.23.209/genre/drama/" rel="category tag">Drama</a>, <a href="https://139.99.23.209/genre/family/" rel="category tag">Family</a>, 										</div>
+
+																	</div>
+
+							</li><li>								<div class="idmuvi-rp-link clearfix">
+
+									<a href="https://139.99.23.209/elsa-fred-2014/" itemprop="url" title="Permalink ke: Elsa &#038; Fred (2014)"><img width="60" height="90" src="https://cdn.pusatfilm21.info/wp-content/uploads/2021/06/6BCPzvCkK0MYgJ4ws6n3ppHx8UM-60x90.jpg.webp" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" itemprop="image" srcset="https://cdn.pusatfilm21.info/wp-content/uploads/2021/06/6BCPzvCkK0MYgJ4ws6n3ppHx8UM-60x90.jpg.webp 60w,https://cdn.pusatfilm21.info/wp-content/uploads/2021/06/6BCPzvCkK0MYgJ4ws6n3ppHx8UM-152x228.jpg.webp 152w,https://cdn.pusatfilm21.info/wp-content/uploads/2021/06/6BCPzvCkK0MYgJ4ws6n3ppHx8UM-170x255.jpg.webp 170w,https://cdn.pusatfilm21.info/wp-content/uploads/2021/06/6BCPzvCkK0MYgJ4ws6n3ppHx8UM.jpg.webp 300w" sizes="(max-width: 60px) 100vw, 60px" title="6BCPzvCkK0MYgJ4ws6n3ppHx8UM" />
+
+										<span class="idmuvi-rp-title">
+
+										Elsa &#038; Fred (2014)										</span>
+
+									</a>
+
+																			<div class="idmuvi-rp-meta idmuvi-rp-author">
+
+											<a href="https://139.99.23.209/genre/comedy/" rel="category tag">Comedy</a>, <a href="https://139.99.23.209/genre/drama/" rel="category tag">Drama</a>, <a href="https://139.99.23.209/genre/romance/" rel="category tag">Romance</a>, <span itemprop="contentLocation" itemscope itemtype="http://schema.org/Place"><a href="https://139.99.23.209/country/usa/" rel="tag">USA</a></span>										</div>
+
+																	</div>
+
+							</li><li>								<div class="idmuvi-rp-link clearfix">
+
+									<a href="https://139.99.23.209/silent-tokyo-2020/" itemprop="url" title="Permalink ke: Silent Tokyo (2020)"><img width="60" height="90" src="https://cdn.pusatfilm21.info/wp-content/uploads/2021/08/2LUp2mWOq28JGwWZENnzYqAIWol-60x90.jpg.webp" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" itemprop="image" srcset="https://cdn.pusatfilm21.info/wp-content/uploads/2021/08/2LUp2mWOq28JGwWZENnzYqAIWol-60x90.jpg.webp 60w,https://cdn.pusatfilm21.info/wp-content/uploads/2021/08/2LUp2mWOq28JGwWZENnzYqAIWol-152x228.jpg.webp 152w,https://cdn.pusatfilm21.info/wp-content/uploads/2021/08/2LUp2mWOq28JGwWZENnzYqAIWol-170x255.jpg.webp 170w" sizes="(max-width: 60px) 100vw, 60px" title="2LUp2mWOq28JGwWZENnzYqAIWol" />
+
+										<span class="idmuvi-rp-title">
+
+										Silent Tokyo (2020)										</span>
+
+									</a>
+
+																			<div class="idmuvi-rp-meta idmuvi-rp-author">
+
+											<a href="https://139.99.23.209/genre/thriller/" rel="category tag">Thriller</a>, <span itemprop="contentLocation" itemscope itemtype="http://schema.org/Place"><a href="https://139.99.23.209/country/japan/" rel="tag">Japan</a></span>										</div>
+
+																	</div>
+
+							</li>											</ul>
+
+				</div>
+
+			</div>
+
+
+
 		</div><div id="text-8" class="widget widget_text">			<div class="textwidget"><p><!-- <script id="cid0020000180875322444" data-cfasync="false" async src="//st.chatango.com/js/gz/emb.js" style="width: 302px;height: 300px;">{"handle":"pusatfilm21","arch":"js","styles":{"a":"0084EF","b":100,"c":"000000","d":"000000","k":"0084EF","l":"0084EF","m":"0084EF","p":"10","q":"0084EF","r":100,"pos":"br","cv":1,"cvbg":"0084EF","cvfg":"000000","cvw":300,"cvh":39,"ticker":1,"fwtickm":1}}</script> --></p>
 </div>
 		</div></aside><!-- #secondary -->
@@ -744,190 +962,374 @@ Terima kasih</p>
 
 <div class="gmr-ontop gmr-hide"><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 36 36"><path class="clr-i-outline clr-i-outline-path-1" d="M29.52 22.52L18 10.6L6.48 22.52a1.7 1.7 0 0 0 2.45 2.36L18 15.49l9.08 9.39a1.7 1.7 0 0 0 2.45-2.36z" fill="currentColor"/></svg></div>
 
-<style>
-.petrus {
-display: none;
-}
-.wpra-plugin-container[data-sgc_id="1"] .wpra-reaction .wpra-reaction-wrap {
- border-width: 1px;
- border-radius: 5px;
- border-style: solid;
- border-color: #dddddd;
- background-color: #000000;
-}
-.wpra-plugin-container[data-sgc_id="1"] .wpra-reaction:hover .wpra-reaction-wrap {
- background-color: #42a7db;
- border-color: #dddddd;
-}
-.wpra-plugin-container[data-sgc_id="1"] .wpra-reaction.active .wpra-reaction-wrap {
- border-color: #dddddd;
- background-color: #42a7db;
-}
-.wpra-plugin-container[data-sgc_id="1"] .wpra-reaction .wpra-reaction-label {
- color: #ffffff;
- font-size: 14px;
- font-weight: 700;
-}
-.wpra-plugin-container[data-sgc_id="1"] .wpra-reaction:hover .wpra-reaction-label {
- color: #000000;
-}
-.wpra-plugin-container[data-sgc_id="1"] .wpra-reaction.active .wpra-reaction-label {
- color: #000000;
-}
-.wpra-plugin-container[data-sgc_id="1"] .wpra-reaction:hover .count-num {
- color: #000000;
-}
-.wpra-plugin-container[data-sgc_id="1"] .wpra-reaction.active .count-num {
- color: #000000;
-}
-.wpra-plugin-container[data-sgc_id="1"] .count-num {
- color: #000000;
- font-weight: 300;
- font-size: 14px;
- display: none;
-}
-.wpra-plugin-container[data-sgc_id="1"] .wpra-total-counts {
- color: #000000;
- font-weight: 500;
- font-size: 14px;
-}
-.wpra-plugin-container[data-sgc_id="1"]  {
- justify-content: center;
-}
-.wpra-plugin-container[data-sgc_id="1"] .wpra-call-to-action {
- color: #ffffff;
- font-size: 25px;
- font-weight: 600;
- display: block;
-}
-.wpra-plugin-container[data-sgc_id="1"] .wpra-reactions {
-}
-.wpra-plugin-container[data-sgc_id="1"] .wpra-flying {
- color: #000000;
- font-size: 16px;
- font-weight: 300;
-}
-.wpra-plugin-container[data-sgc_id="1"] .wpra-reaction-animation-holder {
- width: 38px;
- height: 38px;
- margin: -5px;
- padding: 4px;
-}
-.wpra-plugin-container[data-sgc_id="1"] .wpra-reaction-static-holder {
- width: 38px;
- height: 38px;
- margin: -5px;
- padding: 6px;
-}
-.wpra-plugin-container[data-sgc_id="1"] .wpra-share-expandable-more {
- border-radius: 5px;
-}
-.wpra-plugin-container[data-sgc_id="1"] .wpra-share-expandable-counts {
- font-size: 30px;
- font-weight: 700;
- color: #000000;
-}
-.wpra-plugin-container[data-sgc_id="1"] .share-btn {
- border-radius: 5px;
-}
-.wpra-plugin-container[data-sgc_id="2"] .wpra-reaction .wpra-reaction-wrap {
- border-width: 1px;
- border-radius: 5px;
- border-style: solid;
- border-color: #dddddd;
- background-color: #000000;
-}
-.wpra-plugin-container[data-sgc_id="2"] .wpra-reaction:hover .wpra-reaction-wrap {
- background-color: #42a7db;
- border-color: #dddddd;
-}
-.wpra-plugin-container[data-sgc_id="2"] .wpra-reaction.active .wpra-reaction-wrap {
- border-color: #dddddd;
- background-color: #42a7db;
-}
-.wpra-plugin-container[data-sgc_id="2"] .wpra-reaction .wpra-reaction-label {
- color: #ffffff;
- font-size: 14px;
- font-weight: 700;
-}
-.wpra-plugin-container[data-sgc_id="2"] .wpra-reaction:hover .wpra-reaction-label {
- color: #000000;
-}
-.wpra-plugin-container[data-sgc_id="2"] .wpra-reaction.active .wpra-reaction-label {
- color: #000000;
-}
-.wpra-plugin-container[data-sgc_id="2"] .wpra-reaction:hover .count-num {
- color: #000000;
-}
-.wpra-plugin-container[data-sgc_id="2"] .wpra-reaction.active .count-num {
- color: #000000;
-}
-.wpra-plugin-container[data-sgc_id="2"] .count-num {
- color: #000000;
- font-weight: 300;
- font-size: 14px;
- display: none;
-}
-.wpra-plugin-container[data-sgc_id="2"] .wpra-total-counts {
- color: #000000;
- font-weight: 500;
- font-size: 14px;
-}
-.wpra-plugin-container[data-sgc_id="2"]  {
- justify-content: center;
-}
-.wpra-plugin-container[data-sgc_id="2"] .wpra-call-to-action {
- color: #ffffff;
- font-size: 25px;
- font-weight: 600;
- display: block;
-}
-.wpra-plugin-container[data-sgc_id="2"] .wpra-reactions {
-}
-.wpra-plugin-container[data-sgc_id="2"] .wpra-flying {
- color: #000000;
- font-size: 16px;
- font-weight: 300;
-}
-.wpra-plugin-container[data-sgc_id="2"] .wpra-reaction-animation-holder {
- width: 38px;
- height: 38px;
- margin: -5px;
- padding: 4px;
-}
-.wpra-plugin-container[data-sgc_id="2"] .wpra-reaction-static-holder {
- width: 38px;
- height: 38px;
- margin: -5px;
- padding: 6px;
-}
-.wpra-plugin-container[data-sgc_id="2"] .wpra-share-expandable-more {
- border-radius: 5px;
-}
-.wpra-plugin-container[data-sgc_id="2"] .wpra-share-expandable-counts {
- font-size: 30px;
- font-weight: 700;
- color: #000000;
-}
-.wpra-plugin-container[data-sgc_id="2"] .share-btn {
- border-radius: 5px;
-}
-
-</style>
-<script type="text/javascript">
-    (function(c,l,a,r,i,t,y){
-        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
-        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
-    })(window, document, "clarity", "script", "ch2i4ts02q");
-</script>
-<script>
-  // Set the options globally
-  // to make LazyLoad self-initialize
-  window.lazyLoadOptions = {
-    // Your custom settings go here
-  };
-</script>
+<style>
+
+.petrus {
+
+display: none;
+
+}
+
+.wpra-plugin-container[data-sgc_id="1"] .wpra-reaction .wpra-reaction-wrap {
+
+ border-width: 1px;
+
+ border-radius: 5px;
+
+ border-style: solid;
+
+ border-color: #dddddd;
+
+ background-color: #000000;
+
+}
+
+.wpra-plugin-container[data-sgc_id="1"] .wpra-reaction:hover .wpra-reaction-wrap {
+
+ background-color: #42a7db;
+
+ border-color: #dddddd;
+
+}
+
+.wpra-plugin-container[data-sgc_id="1"] .wpra-reaction.active .wpra-reaction-wrap {
+
+ border-color: #dddddd;
+
+ background-color: #42a7db;
+
+}
+
+.wpra-plugin-container[data-sgc_id="1"] .wpra-reaction .wpra-reaction-label {
+
+ color: #ffffff;
+
+ font-size: 14px;
+
+ font-weight: 700;
+
+}
+
+.wpra-plugin-container[data-sgc_id="1"] .wpra-reaction:hover .wpra-reaction-label {
+
+ color: #000000;
+
+}
+
+.wpra-plugin-container[data-sgc_id="1"] .wpra-reaction.active .wpra-reaction-label {
+
+ color: #000000;
+
+}
+
+.wpra-plugin-container[data-sgc_id="1"] .wpra-reaction:hover .count-num {
+
+ color: #000000;
+
+}
+
+.wpra-plugin-container[data-sgc_id="1"] .wpra-reaction.active .count-num {
+
+ color: #000000;
+
+}
+
+.wpra-plugin-container[data-sgc_id="1"] .count-num {
+
+ color: #000000;
+
+ font-weight: 300;
+
+ font-size: 14px;
+
+ display: none;
+
+}
+
+.wpra-plugin-container[data-sgc_id="1"] .wpra-total-counts {
+
+ color: #000000;
+
+ font-weight: 500;
+
+ font-size: 14px;
+
+}
+
+.wpra-plugin-container[data-sgc_id="1"]  {
+
+ justify-content: center;
+
+}
+
+.wpra-plugin-container[data-sgc_id="1"] .wpra-call-to-action {
+
+ color: #ffffff;
+
+ font-size: 25px;
+
+ font-weight: 600;
+
+ display: block;
+
+}
+
+.wpra-plugin-container[data-sgc_id="1"] .wpra-reactions {
+
+}
+
+.wpra-plugin-container[data-sgc_id="1"] .wpra-flying {
+
+ color: #000000;
+
+ font-size: 16px;
+
+ font-weight: 300;
+
+}
+
+.wpra-plugin-container[data-sgc_id="1"] .wpra-reaction-animation-holder {
+
+ width: 38px;
+
+ height: 38px;
+
+ margin: -5px;
+
+ padding: 4px;
+
+}
+
+.wpra-plugin-container[data-sgc_id="1"] .wpra-reaction-static-holder {
+
+ width: 38px;
+
+ height: 38px;
+
+ margin: -5px;
+
+ padding: 6px;
+
+}
+
+.wpra-plugin-container[data-sgc_id="1"] .wpra-share-expandable-more {
+
+ border-radius: 5px;
+
+}
+
+.wpra-plugin-container[data-sgc_id="1"] .wpra-share-expandable-counts {
+
+ font-size: 30px;
+
+ font-weight: 700;
+
+ color: #000000;
+
+}
+
+.wpra-plugin-container[data-sgc_id="1"] .share-btn {
+
+ border-radius: 5px;
+
+}
+
+.wpra-plugin-container[data-sgc_id="2"] .wpra-reaction .wpra-reaction-wrap {
+
+ border-width: 1px;
+
+ border-radius: 5px;
+
+ border-style: solid;
+
+ border-color: #dddddd;
+
+ background-color: #000000;
+
+}
+
+.wpra-plugin-container[data-sgc_id="2"] .wpra-reaction:hover .wpra-reaction-wrap {
+
+ background-color: #42a7db;
+
+ border-color: #dddddd;
+
+}
+
+.wpra-plugin-container[data-sgc_id="2"] .wpra-reaction.active .wpra-reaction-wrap {
+
+ border-color: #dddddd;
+
+ background-color: #42a7db;
+
+}
+
+.wpra-plugin-container[data-sgc_id="2"] .wpra-reaction .wpra-reaction-label {
+
+ color: #ffffff;
+
+ font-size: 14px;
+
+ font-weight: 700;
+
+}
+
+.wpra-plugin-container[data-sgc_id="2"] .wpra-reaction:hover .wpra-reaction-label {
+
+ color: #000000;
+
+}
+
+.wpra-plugin-container[data-sgc_id="2"] .wpra-reaction.active .wpra-reaction-label {
+
+ color: #000000;
+
+}
+
+.wpra-plugin-container[data-sgc_id="2"] .wpra-reaction:hover .count-num {
+
+ color: #000000;
+
+}
+
+.wpra-plugin-container[data-sgc_id="2"] .wpra-reaction.active .count-num {
+
+ color: #000000;
+
+}
+
+.wpra-plugin-container[data-sgc_id="2"] .count-num {
+
+ color: #000000;
+
+ font-weight: 300;
+
+ font-size: 14px;
+
+ display: none;
+
+}
+
+.wpra-plugin-container[data-sgc_id="2"] .wpra-total-counts {
+
+ color: #000000;
+
+ font-weight: 500;
+
+ font-size: 14px;
+
+}
+
+.wpra-plugin-container[data-sgc_id="2"]  {
+
+ justify-content: center;
+
+}
+
+.wpra-plugin-container[data-sgc_id="2"] .wpra-call-to-action {
+
+ color: #ffffff;
+
+ font-size: 25px;
+
+ font-weight: 600;
+
+ display: block;
+
+}
+
+.wpra-plugin-container[data-sgc_id="2"] .wpra-reactions {
+
+}
+
+.wpra-plugin-container[data-sgc_id="2"] .wpra-flying {
+
+ color: #000000;
+
+ font-size: 16px;
+
+ font-weight: 300;
+
+}
+
+.wpra-plugin-container[data-sgc_id="2"] .wpra-reaction-animation-holder {
+
+ width: 38px;
+
+ height: 38px;
+
+ margin: -5px;
+
+ padding: 4px;
+
+}
+
+.wpra-plugin-container[data-sgc_id="2"] .wpra-reaction-static-holder {
+
+ width: 38px;
+
+ height: 38px;
+
+ margin: -5px;
+
+ padding: 6px;
+
+}
+
+.wpra-plugin-container[data-sgc_id="2"] .wpra-share-expandable-more {
+
+ border-radius: 5px;
+
+}
+
+.wpra-plugin-container[data-sgc_id="2"] .wpra-share-expandable-counts {
+
+ font-size: 30px;
+
+ font-weight: 700;
+
+ color: #000000;
+
+}
+
+.wpra-plugin-container[data-sgc_id="2"] .share-btn {
+
+ border-radius: 5px;
+
+}
+
+
+
+</style>
+
+<script type="text/javascript">
+
+    (function(c,l,a,r,i,t,y){
+
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+
+    })(window, document, "clarity", "script", "ch2i4ts02q");
+
+</script>
+
+<script>
+
+  // Set the options globally
+
+  // to make LazyLoad self-initialize
+
+  window.lazyLoadOptions = {
+
+    // Your custom settings go here
+
+  };
+
+</script>
+
 <script data-minify="1" async src="https://cdn.pusatfilm21.info/wp-content/cache/min/1/npm/vanilla-lazyload@17.8.3/dist/lazyload.min.js?ver=1670501136"></script><script type='text/javascript' id='idmuvi_ajax_search-js-extra'>
 /* <![CDATA[ */
 var mvpro_ajaxsearch_params = {"loading":"https:\/\/139.99.23.209\/wp-content\/plugins\/idmuvi-core\/img\/ajax-loader.gif","ajax_url":"https:\/\/139.99.23.209\/wp-admin\/admin-ajax.php"};
